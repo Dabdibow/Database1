@@ -1,0 +1,11 @@
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+    background-color: #fff;
+}
+
+.footer {
+    text-align: center;
+    background-color: #c4c4c4c4;
+}
